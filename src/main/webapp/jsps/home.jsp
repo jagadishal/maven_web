@@ -8,7 +8,7 @@
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
-<body bgcolor="lightblue">   
+<body bgcolor="red">   
 <h1 align="center">Welcome to JAgadish Technologies.</h1>
 <h3 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h3>
 <hr>
